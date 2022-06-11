@@ -20,6 +20,6 @@ public class FirstTest {
     @Test
     void finalTest() {
 
-        Assertions.assertTrue(3 >= 1);
+        Assertions.assertTrue(10 >= 1);
     }
 }
