@@ -16,10 +16,4 @@ public class FirstTest {
 
         Assertions.assertTrue(3 >= 1);
     }
-
-    @Test
-    void finalTest() {
-
-        Assertions.assertTrue(3 >= 1);
-    }
 }
